@@ -11,13 +11,13 @@
 </a>
 </div>  
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hasib999&&style=flat-square" align="center" />
-</div> 
 <div align="center">
 </a>
  <a href="https://hasib999.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Hasib%20Shanto-Portfolio-red alt=portfolio style="margin-bottom: 5px;" />
 </a>
+</div><br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hasib999&&style=flat-square" align="center" />
 </div> 
+ 
