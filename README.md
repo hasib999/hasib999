@@ -21,13 +21,14 @@
 <img src="https://komarev.com/ghpvc/?username=hasib999&&style=flat-square" align="center" />
 </div>
 
+<br/>
+<br/>
 <div>
 <div align="center">
 <strong>Skills</strong>
 
 </div>
- <br/>
- <br/>
+ 
 ###### Frameworks:
  <br/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
