@@ -21,6 +21,11 @@
 <img src="https://komarev.com/ghpvc/?username=hasib999&&style=flat-square" align="center" />
 </div>
 
+<div>
+<div align="center">
+<strong>Skills</strong>
+
+</div>
 ###### Frameworks:
 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -64,4 +69,4 @@
 
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
- 
+ </div>
